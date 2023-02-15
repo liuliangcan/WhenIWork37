@@ -1,0 +1,8 @@
+{
+  "log_dir": "D:/",
+  "log_prefix": "when_i_work",
+  "batch_count": 10,
+  "event_minimum_interval_seconds": 0,
+  "filter_by_window_name": [],
+  "keep_log_day": 7
+}
